@@ -2,6 +2,7 @@
 
 1. Fork/clone this repo
 2. Update this readme with proposal
+  * Use valid markdown formatting!
 3. Pull request
 
 ## Group Members
